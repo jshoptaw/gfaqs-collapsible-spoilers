@@ -4,8 +4,8 @@
 // @author      OTACON120
 // @version     1.0.2
 // @description Replaces GameFAQs obscured-text spoilers with collapsible spoilers
-// @updateURL   http://userscripts.org/scripts/source/134043.meta.js
-// @downloadURL http://userscripts.org/scripts/source/134043.user.js
+// @updateURL   https://greasyfork.org/scripts/615-gamefaqs-collapsible-spoilers/code/GameFAQs%20Collapsible%20Spoilers.meta.js
+// @downloadURL https://greasyfork.org/scripts/615-gamefaqs-collapsible-spoilers/code/GameFAQs%20Collapsible%20Spoilers.user.js
 // @website     http://otacon120.com/user-scripts/gamefaqs-related/collapsible-spoilers
 // @include     http://www.gamefaqs.com/boards/*-*
 // @match       http://www.gamefaqs.com/boards/*-*
